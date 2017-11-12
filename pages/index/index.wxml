@@ -16,7 +16,7 @@
     <view class="summary_con">
       <text class="summary">
         <text>
-          {{json}}
+          asd
         </text>
         <text class="huati">
           #java程序设计
